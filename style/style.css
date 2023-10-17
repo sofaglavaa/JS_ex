@@ -1,0 +1,24 @@
+.Light_theme{
+    background-color: rgb(230, 230, 192);
+    color: black;
+    font-family: math;
+    text-align: center;
+}
+
+.dark{
+    background-color: black;
+    color: rgb(209, 11, 11);
+    font-family: cursive;
+    text-align: center;
+    font-family: cursive;
+}
+
+.theme_button{
+    padding: 0 24px;
+    margin: 0;
+    height: 30px;
+    background-color: blueviolet;
+    color: black;
+    font-family: cursive;
+    border-radius: 10px; /*Скругление краев кнопки */
+}
